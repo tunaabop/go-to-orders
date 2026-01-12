@@ -60,7 +60,7 @@ think: *sports car dashboard, but cute.*
 ```bash
 git clone https://github.com/YOUR_USERNAME/go-to-orders.git
 cd go-to-orders
-
+```
 
 ## Install on iPhone
 1. Open Safari → go to app URL (local IP or GitHub Pages).
