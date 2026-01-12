@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Go-To Orders banner" />
-</p>
 
 # 💿 GO-TO ORDERS
 
