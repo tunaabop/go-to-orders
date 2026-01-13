@@ -58,12 +58,12 @@ think: *sports car dashboard, but cute.*
 
 ### ⟡ clone the repo
 ```bash
-git clone https://github.com/tunaabop/go-to-orders.git
+git clone https://github.com/tunaabop/z-lunches.git
 cd go-to-orders
 ```
 
 ## Install on iPhone
-1. Open Safari → go to app URL (local IP or GitHub Pages). Currently deployed @ (GitHub Pages)[http://tunaabop.github.io/go-to-orders]
+1. Open Safari → go to app URL (local IP or GitHub Pages). Currently deployed @ [GitHub Pages](http://tunaabop.github.io/z-lunches)
 2. Tap Share → Add to Home Screen.
 3. Name it Lunch Ideas → Tap Add.
 The app now opens full screen, like a native app.
