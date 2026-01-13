@@ -59,7 +59,7 @@ think: *sports car dashboard, but cute.*
 ### ⟡ clone the repo
 ```bash
 git clone https://github.com/tunaabop/z-lunches.git
-cd go-to-orders
+cd z-lunches
 ```
 
 ## Install on iPhone
